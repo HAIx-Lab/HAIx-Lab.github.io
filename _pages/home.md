@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our work recently published at IJCNN 2024
+**News: Our work "Quantifying Spatial Domain Explanations in BCI Using Earth Mover's Distance" recently accepted at IJCNN 2024, Japan
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
