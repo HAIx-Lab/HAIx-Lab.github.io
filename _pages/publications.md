@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "HAIx Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "HAIx Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,6 +11,5 @@ permalink: /publications/
 
 Updating soon -- stay put. (Apr 2024)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 
