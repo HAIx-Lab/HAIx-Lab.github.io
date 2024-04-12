@@ -21,7 +21,3 @@ If you are a Master student at IITGN looking for a Master project, contact me (o
 
 ### Bsc / Master students from elsewhere
 Please take a look at IITGN [SRIP](https://srip.iitgn.ac.in/portal/) openings for research internships.
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
