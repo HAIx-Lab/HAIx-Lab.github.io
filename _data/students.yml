@@ -8,4 +8,25 @@
 #  education3:
 #  education4:
 
+- name: Gangaram Siddam
+  photo: gangaram.jpg
+  info: M.Tech started July 2022
+  email: siddamgangaram@iitgn.ac.in
+  number_educ: 1
+  education1: Btech in Computer Science and Engineering, HNBGU uttharakhand
 
+- name: Manish P. Salvi
+  photo: manish.jpg
+  info: M.Tech started July 2022
+  email: salvimanish@iitgn.ac.in
+  number_educ: 1
+  education1: B.E. in Computer Engineering from SAL Engineering and Technical Institute, Ahmeadabad.
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://haix-lab.github.io/vacancies">openings</a> for more info
+  email: yk.meena@iitgn.ac.in
+  number_educ: 0
+  education1:
+  education2:
+  education3:
