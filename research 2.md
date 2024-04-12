@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "HAIx Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "HAIx Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -10,6 +10,5 @@ permalink: /research/
 
 Updating soon -- stay put. (Aug 11 2023)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 
