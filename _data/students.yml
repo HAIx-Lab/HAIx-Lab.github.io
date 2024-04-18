@@ -43,6 +43,20 @@
   number_educ: 1
   education1: BTech from RCCIIT, Kolkata.
   
+- name: Tanmay Somkuwar
+  photo: tanmay.jpg
+  info: M.Tech in Computer Science started July 2023
+  email: tanmay.somkuwar@iitgn.ac.in
+  number_educ: 1
+  education1: B.tech Computer Science and Engineering MIT ADT University
+  
+- name: Rabina Shrestha
+  photo: rabina.jpg
+  info: M.Tech in Computer Science started July 2023
+  email: rabina.shreshtha@iitgn.ac.in
+  number_educ: 1
+  education1: B.Sc. Computer Science, Kathmandu University, Nepal
+  
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://haix-lab.github.io/vacancies">openings</a> for more info
